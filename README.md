@@ -38,13 +38,29 @@
 
   
   
+    
+<br><br>
+<!-- <a href="https://github.com/AhmedElSayyadMohamed">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElSayyadMohamed&theme=dark">
+</a> -->
+  <a href="https://github.com/AhmedElSayyadMohamed">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElSayyadMohamed">
+</a>
+<!-- <a href="https://github.com/AhmedElSayyadMohamed">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedElSayyadMohamed&show_icons=true&theme=dark&line_height=30" alt="AhmedElSayyadMohamed's github stats"/>
+</a> -->
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedElSayyadMohamed&show_icons=true&locale=en&layout=compact" alt="AhmedElSayyadMohamed" /></p>
+  <a href="https://github.com/AhmedElSayyadMohamed">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedElSayyadMohamed&show_icons=true&line_height=30" alt="AhmedElSayyadMohamed's github stats"/>
+</a>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedElSayyadMohamed&show_icons=true&locale=en&layout=compact" alt="AhmedElSayyadMohamed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedElSayyadMohamed&show_icons=true&locale=en" alt="AhmedElSayyadMohamed" /></p>
+ -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElSayyadMohamed&" alt="AhmedElSayyadMohamed" /></p>
+   -->
+  
+  <br>  <br>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=AhmedElSayyadMohamed" alt="AhmedElSayyadMohamed" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElSayyadMohamed&" alt="AhmedElSayyadMohamed" /></p>
-  
-  
-  
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmedElSayyadMohamed" alt="AhmedElSayyadMohamed" /></a> </p>
