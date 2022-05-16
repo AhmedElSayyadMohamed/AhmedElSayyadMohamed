@@ -8,8 +8,9 @@
 <!--   <br><img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="300">
 <br> -->
 
-- 🔭 I’m currently working on [Graduation Project<club_cast>](https://github.com/AhmedElSayyadMohamed/club_cast)
-
+- 🔭 I’m currently working on :
+  -[Graduation Project<club_cast>](https://github.com/AhmedElSayyadMohamed/club_cast)
+  -MuslimApp(https://github.com/AhmedElSayyadMohamed/club_cast)
 - 🌱 I’m currently learning **Flutter,Dart**
 
 - 📫 How to reach me :
