@@ -9,8 +9,8 @@
 <br> -->
 
 - 🔭 I’m currently working on :
-  -[Graduation Project<club_cast>](https://github.com/AhmedElSayyadMohamed/club_cast)
-  -MuslimApp(https://github.com/AhmedElSayyadMohamed/club_cast)
+  - [Graduation Project<club_cast>](https://github.com/AhmedElSayyadMohamed/club_cast)
+  - [MuslimApp](https://github.com/AhmedElSayyadMohamed/club_cast)
 - 🌱 I’m currently learning **Flutter,Dart**
 
 - 📫 How to reach me :
