@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on :
   - [Graduation Project<club_cast>](https://github.com/AhmedElSayyadMohamed/club_cast)
-  - [MuslimApp](https://github.com/AhmedElSayyadMohamed/club_cast)
+  - [MuslimApp](https://github.com/AhmedElSayyadMohamed/MuslimApp)
 - 🌱 I’m currently learning **Flutter and Dart**
 
 - 📫 How to reach me :
