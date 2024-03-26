@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on :
   - [Eat-Easy-App](https://github.com/AhmedElSayyadMohamed/Eat-Easy-App.git)
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I’m currently learning **Clean Architecture with Flutter**
 
 - 📫 How to reach me :
   - **hunterbusiness197@gmail.com**
