@@ -9,13 +9,13 @@
 <br> -->
 
 - 🔭 I’m currently working on :
-  - [Graduation Project<club_cast>](https://github.com/AhmedElSayyadMohamed/club_cast)
-  - [MuslimApp](https://github.com/AhmedElSayyadMohamed/MuslimApp)
+  - [Eat-Easy-App](https://github.com/AhmedElSayyadMohamed/Eat-Easy-App.git)
+
 - 🌱 I’m currently learning **Flutter and Dart**
 
 - 📫 How to reach me :
-  - **elsayyada197@gmail.com**
-  - My Phone Number 01122524270
+  - **hunterbusiness197@gmail.com**
+  - whatsup number : 01122524270
   
 
 <h3 align="left">Connect with me:</h3>
