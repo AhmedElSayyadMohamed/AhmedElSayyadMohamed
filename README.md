@@ -4,7 +4,7 @@
 <h1 align="center">Hi there 👋, I'm Ahmed El Sayyad</h1>
 <h3 align="center">a Mobile Developer < Flutter ></h3>
 <br>
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF"  height="350">
+  <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF"  height="350">
 <br>
 
 
