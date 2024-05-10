@@ -2,7 +2,8 @@
 
 
 <h1 align="center">Hi there 👋, I'm Ahmed El Sayyad</h1>
-<h3 align="center">a Mobile Developer < Flutter ></h3>
+
+<h3 align="center"> Mobile Developer < Flutter ></h3>
 <!-- <br>
   <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF"  height="350">
 <br> -->
@@ -17,8 +18,9 @@
 - 🌱 I’m currently learning **Clean Architecture with Flutter**
 
 - 📫 How to reach me :
-  - **hunterbusiness197@gmail.com**
-  - whatsup number : 01122524270
+  
+  - hunterbusiness197@gmail.com
+  - whatsUp Number : 01122524270
   
 
 <h3 align="left">Connect with me:</h3>
