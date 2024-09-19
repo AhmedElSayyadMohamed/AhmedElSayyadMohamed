@@ -16,7 +16,7 @@
   - hunterbusiness197@gmail.com
   - <a href="mailto:hunterbusiness197@gmail.com">Click here to send me an email</a>
 
-  - <a href="https://wa.me/201122524270?text=السلام عليكم ورحمة الله وبركاتة عامل ايه يا بشمهندس بقولك">Click here to contact me on WhatsApp</a>
+  - <a href="https://wa.me/201122524270?text=(ツ) السلام عليكم ورحمة الله وبركاتة عامل ايه يا بشمهندس بقولك">Click here to contact me on WhatsApp</a>
 
   
 </h4>
