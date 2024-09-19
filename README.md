@@ -14,7 +14,9 @@
 - 📫 How to reach me :
   
   - hunterbusiness197@gmail.com
-  - <a href=" https://wa.me/201122524270?text= السلام عليكم ورحمة الله وبركاتة عامل ايه يا بشمهندس بقولك ، " target="blank"><h4>Click here to contact me on whatsApp </h4></a>
+  - <a href="mailto:hunterbusiness197@gmail.com">Click here to send me an email</a>
+
+  - <a href="https://wa.me/201122524270?text=السلام عليكم ورحمة الله وبركاتة عامل ايه يا بشمهندس بقولك">Click here to contact me on WhatsApp</a>
 
   
 </h4>
