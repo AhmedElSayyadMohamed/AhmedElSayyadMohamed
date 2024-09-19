@@ -20,7 +20,8 @@
 - 📫 How to reach me :
   
   - hunterbusiness197@gmail.com
-  - whatsUp Number : 01122524270
+  - <a href="https://wa.me/201122524270?" target="blank"><h4>Click here to contact me on whatsApp </h4></a>
+
   
 </h4>
   
