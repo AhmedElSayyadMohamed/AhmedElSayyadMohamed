@@ -4,13 +4,7 @@
 <h1 align="center">Hi there 👋, I'm Ahmed El Sayyad</h1>
 
 <h2 align="center"> Mobile Developer < Flutter ></h3>
-<!-- <br>
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF"  height="350">
-<br> -->
 
-
-<!--   <br><img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="300">
-<br> -->
 <h4>
 - 🔭 I’m currently working on :
   - [Eat-Easy-App](https://github.com/AhmedElSayyadMohamed/Eat-Easy-App.git)
@@ -20,7 +14,7 @@
 - 📫 How to reach me :
   
   - hunterbusiness197@gmail.com
-  - <a href="https://wa.me/201122524270?" target="blank"><h4>Click here to contact me on whatsApp </h4></a>
+  - <a href=" https://wa.me/201122524270?text= السلام عليكم ورحمة الله وبركاتة عامل ايه يا بشمهندس بقولك ، " target="blank"><h4>Click here to contact me on whatsApp </h4></a>
 
   
 </h4>
