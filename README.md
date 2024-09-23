@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi there 👋, I'm Ahmed El Sayyad</h1>
 
-<h2 align="center"> Mobile Developer < Flutter ></h3>
+<h2 align="center"> Mobile Developer </h3>
 
 <h4>
 - 🔭 I’m currently working on :
