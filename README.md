@@ -32,16 +32,14 @@ I enjoy building scalable and maintainable mobile applications, learning new tec
 <h3>Contact Me</h3>
 <div style="display:flex; flex-direction:column; gap:10px; max-width:200px;">
 
-  <a href="mailto:ahmedelsayyad201@gmail.com" style="display:flex; align-items:center; gap:10px; padding:8px 12px; background-color:#D44638; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" height="20"/> Email Me
+  <a href="mailto:ahmedelsayyad201@gmail.com" style="display:flex; align-items:center; gap:10px; padding:8px 12px; background-color:#D44638; color:white; text-decoration:none; border-radius:6px; font-weight:bold;"> Email Me
+  </a>
+<br>
+  <a href="https://www.linkedin.com/in/ahmed-el-sayyad-b8a6221b9/" target="_blank" style="display:flex; align-items:center; gap:10px; padding:8px 12px; background-color:#0A66C2; color:white; text-decoration:none; border-radius:6px; font-weight:bold;"> LinkedIn
   </a>
 
-  <a href="https://www.linkedin.com/in/ahmed-el-sayyad-b8a6221b9/" target="_blank" style="display:flex; align-items:center; gap:10px; padding:8px 12px; background-color:#0A66C2; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20"/> LinkedIn
-  </a>
-
-  <a href="https://wa.me/201122524270?text=Hello%20Ahmed!" target="_blank" style="display:flex; align-items:center; gap:10px; padding:8px 12px; background-color:#25D366; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">
-    <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" width="20" height="20"/> WhatsApp
+<br>
+  <a href="https://wa.me/201122524270?text=Hello%20Ahmed!" target="_blank" style="display:flex; align-items:center; gap:10px; padding:8px 12px; background-color:#25D366; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">WhatsApp
   </a>
 
 </div>
