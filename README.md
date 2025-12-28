@@ -37,6 +37,7 @@ I enjoy building scalable and maintainable mobile applications, learning new tec
 <br>
   <a href="https://www.linkedin.com/in/ahmed-el-sayyad-b8a6221b9/" target="_blank" style="display:flex; align-items:center; gap:10px; padding:8px 12px; background-color:#0A66C2; color:white; text-decoration:none; border-radius:6px; font-weight:bold;"> LinkedIn
   </a>
+<br>
   <a href="https://wa.me/201122524270?text=Hello%20Ahmed!" target="_blank" style="display:flex; align-items:center; gap:10px; padding:8px 12px; background-color:#25D366; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">WhatsApp
   </a>
 
