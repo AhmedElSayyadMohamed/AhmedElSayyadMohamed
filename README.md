@@ -31,15 +31,19 @@ I enjoy building scalable and maintainable mobile applications, learning new tec
 
 <h3>Contact Me</h3>
 <p>
-  <a href="mailto:ahmedelsayyad201@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" height="20" style="vertical-align:middle"/> Email Me
-  </a><br><br>
-  
-  <a href="https://www.linkedin.com/in/ahmed-el-sayyad-b8a6221b9/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20" style="vertical-align:middle"/> LinkedIn
-  </a><br><br>
-  
-  <a href="https://wa.me/201122524270?text=Hello%20Ahmed!" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" width="20" height="20" style="vertical-align:middle"/> WhatsApp
+  <a href="mailto:ahmedelsayyad201@gmail.com" style="text-decoration:none; display:flex; align-items:center; gap:5px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" height="20"/> Email Me
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/ahmed-el-sayyad-b8a6221b9/" target="_blank" style="text-decoration:none; display:flex; align-items:center; gap:5px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20"/> LinkedIn
+  </a>
+</p>
+
+<p>
+  <a href="https://wa.me/201122524270?text=Hello%20Ahmed!" target="_blank" style="text-decoration:none; display:flex; align-items:center; gap:5px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" width="20" height="20"/> WhatsApp
   </a>
 </p>
