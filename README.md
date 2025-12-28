@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Ahmed El Sayyad
 
 ## 📱 Mobile Application Developer  
-🎓 **ITI 9-Month Program – Mobile Development Track**
+🎓 **Flutter Developer | Currently in Native Mobile Track – ITI 9-Month Program**
 
 ---
 
 ## 🚀 About Me
-I'm a passionate **Mobile Developer** with a strong interest in building scalable and maintainable mobile applications.  
-I enjoy learning new technologies, writing clean code, and applying software engineering best practices.
+I'm a passionate **Mobile Developer** with experience in **Flutter** and currently focusing on **Native Mobile Development**.  
+I enjoy building scalable and maintainable mobile applications, learning new technologies, and applying software engineering best practices.
 
 ---
 
