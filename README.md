@@ -6,17 +6,15 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **Mobile Developer** with a strong interest in building scalable and clean mobile applications.  
-Currently focusing on **Flutter** and applying **Clean Architecture principles** to real-world projects.
-
-I enjoy learning new technologies, writing clean code, and continuously improving my problem-solving skills.
+I'm a passionate **Mobile Developer** with a strong interest in building scalable and maintainable mobile applications.  
+I enjoy learning new technologies, writing clean code, and applying software engineering best practices.
 
 ---
 
 ## 🌱 Currently Learning
-- Clean Architecture with Flutter  
-- State Management & Best Practices  
-- Firebase & REST APIs Integration  
+- Native Mobile Development  
+- Android Fundamentals & Best Practices  
+- Clean Code & Application Architecture  
 
 ---
 
@@ -33,22 +31,7 @@ I enjoy learning new technologies, writing clean code, and continuously improvin
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElSayyadMohamed&layout=compact" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedElSayyadMohamed&show_icons=true" />
-</p>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedElSayyadMohamed&margin-w=10" />
-</p>
-
----
-
 ## 📫 Contact Me
 - 📧 **Email:** ahmedelsayyad201@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/ahmed-el-sayyad-b8a6221b9/  
-- 💬 **WhatsApp:** https://wa.me/201122524270
+- 💼 **LinkedIn:** Ahmed El Sayyad  
+- 💬 **WhatsApp:** Available upon request
