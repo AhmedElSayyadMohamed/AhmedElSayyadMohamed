@@ -16,16 +16,15 @@ I'm a mobile developer with commercial Flutter experience and native iOS and And
 ## 🚀 Flutter Projects
 
 - **[club_cast](https://github.com/AhmedElSayyadMohamed/club_cast)** — real-time social audio platform with live voice rooms, podcasts, and speaker roles, built with Flutter, Agora SDK, and Socket.IO (university graduation project, grade: Excellent).
-- **[Movie App](https://github.com/AhmedElSayyadMohamed/Movie_App_With_Clean_Arch)** — movie discovery app built with Flutter and Clean Architecture.
-- **[Storeify](https://github.com/AhmedElSayyadMohamed/Storeify_hunter)** — Flutter e-commerce app for online shopping.
 - **[Lavie](https://github.com/AhmedElSayyadMohamed/Lavie_ODC_Flutter_Hackathon)** — plants e-commerce app with a social section, built during the Orange Digital Center Flutter Hackathon.
+- **[Movie App](https://github.com/AhmedElSayyadMohamed/Movie_App_With_Clean_Arch)** — movie discovery app built with Flutter and Clean Architecture.
 
 ## 🍎 iOS Projects
 
 - **[CareerPilot](https://github.com/Career-Pilot-ITI/Career-Pilot-iOS)** — AI interview coaching app in SwiftUI (ITI graduation project, team of 3 iOS + 4 backend). Modular UI components, phone authentication, dynamic profile forms, Firebase AI services, Clean Architecture + Swinject.
+- **[QuickMart](https://github.com/Workshop-iti-team-1/quick-mart)** — AI-powered e-commerce app in SwiftUI (ITI JETS workshop) with Clean Architecture, MVVM, Shopify GraphQL, and Gemini AI.
 - **[FantazyArena](https://github.com/FantazyArena/FantazyArena)** — sports app in UIKit with Clean Architecture & MVP, Compositional Layout, Diffable Data Source, Alamofire, SDWebImage, and XCTest.
 - **[AuraCast](https://github.com/AhmedElSayyadMohamed/AuraCast)** — weather app in SwiftUI with MVVM, multi-location management, Core Location, and an adaptive day/night interface.
-- **[QuickMart](https://github.com/Workshop-iti-team-1/quick-mart)** — AI-powered e-commerce app in SwiftUI (ITI JETS workshop) with Clean Architecture, MVVM, Shopify GraphQL, and Gemini AI.
 - **[Taskaty](https://github.com/AhmedElSayyadMohamed/Taskaty)** — task manager in Objective-C & UIKit with filtering, local persistence, reminders, and attachment previews.
 
 ## 🤖 Android & Java Projects
