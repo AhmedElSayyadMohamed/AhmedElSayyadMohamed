@@ -4,7 +4,7 @@
 
 📍 Cairo, Egypt
 
-I'm a mobile developer with commercial Flutter experience and native iOS and Android project experience. As a Junior Flutter Developer at Mercury Communications, I developed and maintained production apps published on the App Store and Google Play. I'm a graduate of ITI's 9-month Native Mobile Development diploma (Smart Village), and I enjoy building clean, maintainable apps and learning new technologies.
+I'm a mobile developer with commercial Flutter experience and native iOS and Android project experience. As a Flutter Developer at Mercury Communications, I developed and maintained production apps published on the App Store and Google Play. I'm a graduate of ITI's 9-month Native Mobile Development diploma (Smart Village), and I enjoy building clean, maintainable apps and learning new technologies.
 
 ---
 
