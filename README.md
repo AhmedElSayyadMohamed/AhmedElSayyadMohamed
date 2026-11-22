@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed El-Sayyad Mohamed 👋
 
-**Mobile Developer | Flutter, iOS (Swift, SwiftUI, UIKit) & Android (Kotlin, Java)**
+**Mobile Developer | Flutter, iOS (Swift, SwiftUI, UIKit)**
 
 📍 Cairo, Egypt
 
